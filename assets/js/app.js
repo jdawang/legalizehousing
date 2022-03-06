@@ -110,9 +110,9 @@ function showProfile(data) {
 						'<h4>Write to ' + data.representatives_centroid[i].name + ', to Minister of Housing Steve Clark, and to opposition housing critics and ask the provincial government to:</h4>' +
 						'<small>1. Legalize 4 units and 4 storey homes on every plot in Ontario.</small>' +
 						'<small>2. Legalize mid-rise housing along transit routes.</small>' +
-						'<small>3. Stop municipal abuse of design guidelines and heritage designations that prevents homes from being built.</small>' +
+						'<small>3. Stop municipal abuse of design guidelines and bulk heritage designations of little value that prevent homes from being built.</small>' +
 						'<br/>' +
-						'<small>Select your email client below, then replace the few parts in the [BRACKETS]:</small>' +
+						'<small>Select your email client below:</small>' +
 						'<small>' +
 						'<div class="col-xs-2 justify-content-center text-center">' +
 						'<h5><a id="gmail_text_' + data.representatives_centroid[i].name + '" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=' + data.representatives_centroid[i].email + "; steve.clark@pc.ola.org; jbell-co@ndp.on.ca; sblais.mpp.co@liberal.ola.org; mschreiner-co@ola.org" + '&su=' + EMAIL_SUBJECT + '&body=' + EMAIL_BODY + '" class="email-header" target="_blank">Gmail</a></h5>' +
@@ -132,7 +132,7 @@ function showProfile(data) {
 						'</div>' +
 						'</small>' +
 						'</br>' +
-						'<small>Or, copy/paste the following text to / Ou, copiez et collez le courriel suivant à: <a href="mailto:' + data.representatives_centroid[i].email + '?subject=EMAIL_SUBJECT_EN&body=EMAIL_BODY_EN">' + data.representatives_centroid[i].email + '</a></small>' +
+						'<small>Or, copy/paste the following text to: <a href="mailto:' + data.representatives_centroid[i].email + '?subject=EMAIL_SUBJECT_EN&body=EMAIL_BODY_EN">' + data.representatives_centroid[i].email + '</a></small>' +
 						'<br/>' +
 						'<h4>Subject:</h4>' +
 						'<small ID="t_mail_subject_' + data.representatives_centroid[i].name + '">' +
