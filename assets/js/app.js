@@ -108,9 +108,9 @@ function showProfile(data) {
 						'<small>' + data.representatives_centroid[i].district_name + '</small>' +
 						'<br/>' +
 						'<h4>Write to ' + data.representatives_centroid[i].name + ', to Minister of Housing Steve Clark, and to opposition housing critics and ask the provincial government to:</h4>' +
-						'<small>1. Waive the visa requirement for Ukrainians fleeing to Canada.</small>' +
-						'<small>2. Simplify the processing and criteria for Ukrainian refugee status.</small>' +
-						'<small>3. Continue allowing Ukrainians already inside Canada to extend their legal status.</small>' +
+						'<small>1. Legalize 4 units and 4 storey homes on every plot in Ontario.</small>' +
+						'<small>2. Legalize mid-rise housing along transit routes.</small>' +
+						'<small>3. Stop municipal abuse of design guidelines and heritage designations that prevents homes from being built.</small>' +
 						'<br/>' +
 						'<small>Select your email client below, then replace the few parts in the [BRACKETS]:</small>' +
 						'<small>' +
